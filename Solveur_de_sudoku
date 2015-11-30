@@ -322,6 +322,7 @@ public class Solveur_de_sudoku {
         Solveur_de_sudoku solveur_de_sudoku = new Solveur_de_sudoku();
         solveur_de_sudoku.readGrille("C:/Users/Hilaire/Documents/GitHub/fichier_sudoku.txt");
         solveur_de_sudoku.grilleValide(solveur_de_sudoku.grille, 0);
+        solveur_de_sudoku.verificateurValide(solveur_de_sudoku.grille, 0);
         solveur_de_sudoku.affiche(solveur_de_sudoku.grille,"GRILLE FOURNIE FORMATEE");
     }
 
