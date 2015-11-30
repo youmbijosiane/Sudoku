@@ -18,6 +18,6 @@ Essai d'algorithme du solveur de Sudoku réalisé dans le cadre du module C306 d
    
   Ce travail a été laborieux et nous a néanmoins permis d'expérimenter le travail collaboratif en matière de programmation, 
   de reviser les notions notamment en java, et surtout de découvrir de nouveaux outils (Git, Jenkins)
-  Ce travail est loin d'etre fini car beaucoup reste à parfaire et nous comptons sur vos remarques pour nous améiorer.
+  Ce travail est loin d'etre fini car beaucoup reste à parfaire et nous comptons sur vos remarques pour nous améliorer.
  
  
