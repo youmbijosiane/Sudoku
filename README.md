@@ -6,7 +6,6 @@ Essai d'algorithme du solveur de Sudoku réalisé dans le cadre du module C306 d
  - MOUSTAPHA Omar Farah
  - AMEGBLETO Atsu Elom Yao
  - YOUMBI EKEN Bernadette Josiane
- - YOUMBI EKEN Bernadette Josiane.
  
  Vous trouverez dans ce dossier les méthodes, tests utilisés pour mettre sur pied un solveur de sudoku
  Les différentes méthodes utilisées sont:
