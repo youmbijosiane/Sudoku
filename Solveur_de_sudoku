@@ -167,7 +167,6 @@ public class Solveur_de_sudoku {
             		consigne = false;
             }
         }
-        if(consigne) System.err.println ("Bravo ! Vous avez réussi le solveur de sudoku");
 
     }
 
